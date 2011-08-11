@@ -1,0 +1,1 @@
+This repository is for storing the code snippets I post to TheDevStop.com. 
